@@ -49,10 +49,10 @@ The file `correctme.txt` contains the text that needs to be corrected. Some word
 #### Description
 
 It's a library that realizes the Minimum Heap data structure. The data structure must:
-    - represent the heap through a vector (it is also possible to use other internal support structures, if necessary);
-    - allow any number - not known - of elements in the heap;
-    - be generic in regards of the type of the elements;
-    - be generic in regards of the criterion of comparison between elements of the heap.
+- represent the heap through a vector (it is also possible to use other internal support structures, if necessary);
+- allow any number (not known) of elements in the heap;
+- be generic in regards of the type of the elements;
+- be generic in regards of the criterion of comparison between elements of the heap.
 
 It also needs to offer the following operations:
   - creation of an empty heap - `O(1)`;
